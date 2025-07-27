@@ -180,7 +180,7 @@ header.hero p {
 
 body.dark {
   --primary: #eeeeee;
-  --accent: #90cdf4;
+  --accent: #f5f7f8;
   --light-bg: #00131f;
   --text: #eaf6fd;
   --card-bg: #071c2c;
@@ -191,3 +191,11 @@ body.dark .contact-row a { background: #102548; color: #d1eaff; }
 body.dark .contact-row a:hover { background: #013859; color: #fff; }
 body.dark .project-card { background: #052135; border-color: #60b8f5; }
 body.dark .section { background: #0a233b; }
+
+body.dark .project-summary {
+  color: #a0c4ff;
+}
+
+body.dark .skill span {
+  color: #cbd6e8;
+}
